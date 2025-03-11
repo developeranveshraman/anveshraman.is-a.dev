@@ -29,6 +29,12 @@ social = [
   "<br>"
 ];
 
+help = [
+  "<br>",
+  'email        <a href="' + email + '" target="_blank">support@anveshraman.rf.gd' + "</a>",
+  "<br>"
+]
+
 secret = [
   "<br>",
   '<span class="command">sudo</span>           Only use if you\'re admin',
